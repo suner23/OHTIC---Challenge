@@ -1,0 +1,20 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/cryptoMarketB",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:49955/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "Inicio": {
+      "commandName": "Project",
+      "ErrorString": "Invalid property identifier character: .. Path 'profiles['IIS Express']', line 12, position 20."
+    }
+  }
+}
